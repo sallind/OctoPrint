@@ -61,6 +61,13 @@ Retrieve installed language packs
                 "last_update": 1470859680,
                 "author": "The italian Transifex Team"
               }
+              {
+                "locale": "fr",
+                "locale_display": "Francais",
+                "locale_english": "French",
+                "last_update": 1470859680,
+                "author": "Daniel Sallin"
+              }
               ...
             ]
         }
